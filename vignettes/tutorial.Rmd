@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 
 ## Information
-Thank Professor. Bryan D. Martin for his teaching in STAT 302 and kindly providing us with the example we use for this vignette.
+Thank Professor Bryan D. Martin for his teaching in STAT 302 and kindly providing us with the example we use for this vignette.
 
 ## Introduction
 This package is the project 3 for STAT 302, containing 4 functions:
