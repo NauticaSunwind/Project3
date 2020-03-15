@@ -54,6 +54,7 @@ my_gapminder
 
 ## Tutorials
 In this tutorial, how each of the function works is shown.
+
 ### my_t_test
 The function my_t_test can be used to perform a one-sampled t test to show whether it is able to reject the null hypothesis.
 
