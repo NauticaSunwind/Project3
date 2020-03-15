@@ -52,7 +52,6 @@ or using:
 my_gapminder
 ```
 to directly view the dataset.
----
 
 ## Tutorials
 In this tutorial, there are demonstrations of how each of the function works.
