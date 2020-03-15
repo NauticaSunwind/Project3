@@ -9,7 +9,7 @@ devtools::install_github("NauticaSunwind/STAT302PACKAGEDH")
 library(STAT302PACKAGEDH)
 ```
 # Use
-The vignette demonstrates example usage of all main functions. Please https://github.com/NauticaSunwind/STAT302PACKAGEDH/issues if you have a request for a tutorial that is not currently included. You can see the vignette by using the following code (note that this requires a TeX installation to view properly):
+The vignette demonstrates example usage of all main functions. Please [file an issue](https://github.com/NauticaSunwind/STAT302PACKAGEDH/issues) if you have a request for a tutorial that is not currently included. You can see the vignette by using the following code (note that this requires a TeX installation to view properly):
 ```{r}
 # install.packages("devtools")
 devtools::install_github("NauticaSunwind/STAT302PACKAGEDH", build_vignette = TRUE, build_opts = c())
