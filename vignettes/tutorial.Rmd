@@ -52,9 +52,10 @@ or using:
 my_gapminder
 ```
 to directly view the dataset.
+---
 
 ## Tutorials
-In this tutorial, how each of the function works is shown.
+In this tutorial, there are demonstrations of how each of the function works.
 
 ### my_t_test
 The function my_t_test can be used to perform a one-sampled t test to show whether it is able to reject the null hypothesis.
